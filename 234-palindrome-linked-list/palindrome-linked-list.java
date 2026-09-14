@@ -13,6 +13,7 @@ class Solution {
 
         ArrayList<Integer> list = new ArrayList<>();
 
+
         ListNode temp = head;
 
         while(temp != null){
